@@ -26,25 +26,25 @@
   },
   "homepage": "https://github.com/Runnable/hipache-health-checker",
   "dependencies": {
-    "commander": "~2.1.0",
-    "redis": "~0.10.1",
-    "request": "~2.34.0",
-    "correcting-interval": "~1.0.4",
-    "clone": "~0.1.11",
-    "callback-count": "~0.1.0",
-    "rollbar": "~0.2.10",
-    "camelize": "~0.1.2",
+    "commander": "~2.9.0",
+    "redis": "~2.6.3",
+    "request": "~2.78.0",
+    "correcting-interval": "~2.0.0",
+    "clone": "~2.0.0",
+    "callback-count": "~0.2.0",
+    "rollbar": "~0.6.2",
+    "camelize": "~1.0.0",
     "defaults": "~1.0.0",
-    "level": "~0.18.0",
+    "level": "~1.5.0",
     "fn-object": "~0.2.2",
     "map-utils": "~0.4.0",
-    "level-sublevel": "~5.2.0"
+    "level-sublevel": "~6.6.1"
   },
   "devDependencies": {
-    "should": "~3.2.0-beta1",
-    "mocha": "~1.18.2",
-    "express": "~3.5.0",
-    "callback-count": "~0.1.0"
+    "should": "~11.1.1",
+    "mocha": "~3.1.2",
+    "express": "~4.14.0",
+    "callback-count": "~0.2.0"
   },
   "directories": {
     "test": "test"
