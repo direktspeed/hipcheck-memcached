@@ -28,7 +28,7 @@
   "dependencies": {
     "commander": "~2.9.0",
     "redis": "~2.6.3",
-    "request": "~2.78.0",
+    "request": "~2.81.0",
     "correcting-interval": "~2.0.0",
     "clone": "~2.0.0",
     "callback-count": "~0.2.0",
