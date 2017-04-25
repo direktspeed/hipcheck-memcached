@@ -32,7 +32,7 @@
     "correcting-interval": "~2.0.0",
     "clone": "~2.0.0",
     "callback-count": "~0.2.0",
-    "rollbar": "~0.6.2",
+    "rollbar": "~2.0.0-alpha.4",
     "camelize": "~1.0.0",
     "defaults": "~1.0.0",
     "level": "~1.5.0",
