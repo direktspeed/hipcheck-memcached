@@ -35,7 +35,7 @@
     "rollbar": "~0.6.2",
     "camelize": "~1.0.0",
     "defaults": "~1.0.0",
-    "level": "~1.5.0",
+    "level": "~1.7.0",
     "fn-object": "~0.2.2",
     "map-utils": "~0.4.0",
     "level-sublevel": "~6.6.1"
