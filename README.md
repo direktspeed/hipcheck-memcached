@@ -1,6 +1,8 @@
 hipcheck [![Build Status](https://travis-ci.org/Runnable/hipcheck.png)](https://travis-ci.org/Runnable/hipcheck)
 ======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/hipcheck-memcached.svg)](https://greenkeeper.io/)
+
 configurable [hipache](https://github.com/dotcloud/hipache) active health checker written in node
 
 ## Installation
